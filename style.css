@@ -1,0 +1,66 @@
+header {
+    background-color: #4A235A;
+    text-align: center;
+    color: white;
+    height: 60px;
+    padding: 10px;
+    font-size: 1.5em;
+}
+
+body {
+    background: linear-gradient(rgb(22, 37, 99), rgb(59, 170, 243));
+}
+
+#space {
+    height: 750px;
+    width: 100%;
+}
+
+#barkali {
+    position: fixed;
+    margin-top: 30%;
+    padding-left: 50%;
+}
+
+.cloudone {
+    float: left;
+    margin-top: 300px;
+}
+
+.cloudl {
+    float: left;
+    margin-top: 800px;
+}
+
+.cloudr {
+    float: right;
+    margin-top: 800px;
+}
+
+#mountain {
+    margin-top: 300px;
+    width: 100%;
+    margin-bottom: -3%;
+}
+
+#bachia {
+    margin-left: 50%;
+    padding-bottom: 1%;
+}
+
+#bostani {
+    height: 7%;
+    background-color: rgb(9, 129, 59);
+    margin: 0;
+}
+
+.bostneuli {
+    text-align: center;
+    padding-bottom: 1%;
+}
+
+footer {
+    height: 60px;
+    background-color: rgb(44, 0, 0);
+    clear: both;
+}
